@@ -1,0 +1,23 @@
+{
+  "name": "gcb-smart-contracts",
+  "version": "1.0.0",
+  "description": "GCB Smart Contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcbfinancetech/gcb-smart-contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcbfinancetech/gcb-smart-contracts/issues"
+  },
+  "homepage": "https://github.com/gcbfinancetech/gcb-smart-contracts#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.5"
+  }
+}
