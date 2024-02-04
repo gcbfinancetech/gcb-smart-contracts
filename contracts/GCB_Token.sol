@@ -14,7 +14,7 @@ import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract GulfCryptoBank is ERC20, ERC20Burnable, ERC20Permit, Ownable {
+contract GCB is ERC20, ERC20Burnable, ERC20Permit, Ownable {
     // initialSupply    1300000000 for BNB Chain
     // initialSupply    1200000000 for Tron Chain
     uint256 initialSupply = 1300000000;
